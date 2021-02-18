@@ -1,7 +1,7 @@
 # VERTEX MK3S+
 
 
-VERTEX MK3S+ is a 3D printer project based in PRUSA RESEARCH and maintained by VERTEX3D.ORG
+VERTEX MK3S+ is a 3D printer project based on PRUSA RESEARCH and maintained by VERTEX3D.ORG
 Originates in RepRap project.
 
 This repository contains STLs of the printed parts.
